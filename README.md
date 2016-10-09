@@ -16,4 +16,4 @@ Screenshoot :
 
 1. Saat Aplikasi pertama dibuka [SS Intent1](https://github.com/rahajengvio/Intent1/blob/master/Intent1.png)
 
-2. Hasil [SS Intent1](https://github.com/rahajengvio/Intent1/blob/master/Intent1_2.png)
+2. Hasil [SS Intent1](https://github.com/rahajengvio/Intent1/blob/master/Intent1Hasil.png)
